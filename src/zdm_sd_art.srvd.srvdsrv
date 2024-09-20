@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition de la tabla ZDM_TAB_ART'
+define service ZDM_SD_ART {
+  expose ZDM_CDS_ART;
+}
